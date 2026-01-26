@@ -1,0 +1,7 @@
+<PropertyGroup name='StationGlobals' id='0b69f6f4-8b34-4f4b-9cd8-7c481dcc8d00' description='Description for Group 1'>
+<Category>,<PropertyLookup>,<Value>
+{FileGlobals},Bench_Signals,BatteryCurrent
+{FileGlobals},{ContainerValues},
+{FileGlobals},CAN_Signals,PowerVehicle,BusAsleep,BusWake
+{FileGlobals},{ContainerValues},,,
+<PropertyGroup>
